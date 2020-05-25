@@ -3,6 +3,8 @@
 title: N-Mac
 locale: en_US
 theme: jekyll-theme-minimal
+include:
+ - _posts
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
