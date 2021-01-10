@@ -9,7 +9,7 @@ include:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: N-Mac
-  #avatar: bio-photo.jpg
+  avatar: n-mac_hiking.jpg
   bio: "Data practitioner"
   linkedin: #username
   github: n-mac
