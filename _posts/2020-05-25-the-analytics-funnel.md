@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Blog
 navigation_weight: 1
 ---
