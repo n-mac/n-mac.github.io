@@ -5,8 +5,8 @@ exclude: 'yes'
 ---
 
 /* TEAM */
-Author: Daniel McAvinue
-Site: http://dmcavinue.github.io
+Author: Naheil McAvinue
+Site: http://n-mac.github.io
 
 /* SITE */
 Last update: {{ site.time | date: "%Y/%m/%d" }}

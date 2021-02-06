@@ -1,17 +1,17 @@
 # Site settings
-title: Foo
-description: 'dmcavinue.github.io'
-url: 'http://dmcavinue.github.io'
+title: Naheil McAvinue
+description: 'Startup junkie with an enthusiasm for data, food, and coffee'
+url: 'http://n-mac.github.io'
 # baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 # disable_landing_page: true
 
 author:
-  name: 'Foo'
-  email: dan@mcavinue.io
-  github_username:  dmcavinue
-  linkedin_username:  daniel-mcavinue-589a2937
+  name: 'Naheil McAvinue'
+  email: naheilmcavinue@gmail.com
+  github_username: n-mac
+  linkedin_username: naheil-mcavinue-9a193224
 
 defaults:
   -
