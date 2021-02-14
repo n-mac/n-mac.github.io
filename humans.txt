@@ -1,0 +1,8 @@
+/* TEAM */
+Author: Naheil McAvinue
+Site: http://n-mac.github.io
+
+/* SITE */
+Last update: 2021/02/14
+Standards: HTML5, CSS3
+Components: Jekyll
